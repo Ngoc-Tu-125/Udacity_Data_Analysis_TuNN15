@@ -1,0 +1,31 @@
+Your tasks in this project are as follows:
+
+Step 1: Gathering data
+
+Step 2: Assessing data
+
+Step 3: Cleaning data
+
+Step 4: Storing data
+
+Step 5: Analyzing, and visualizing data
+
+Step 6: Reporting
+
+your data wrangling efforts
+your data analyses and visualizations
+
+API key
+NqI688hp4WLncKVISGe3X2vRV
+
+API key secret
+V7FYgAl8Pr9YFRUe2rrOSCkMgr3Y5qh5nXn1EOHD0CtO3a91Df
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAANtfnwEAAAAAq5jm2GVYd3uOuClbg4oC0J%2F%2BInQ%3DkiahifcCB03f6CNqhHbOn2qZrBoeCzBHo0iAvmhfInylJvFgOz
+
+Access Token
+1015956919347961856-WeXiw8iFAVhrxHhzEL2ON3OLukxDT5
+
+Access Token Secret
+DyPzpGYmRgIbSAbLQFvu9orzuz88YJPWC7KJq2MrRynsT
